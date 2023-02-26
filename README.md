@@ -9,7 +9,8 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhalidElgamous&show_icons=true&locale=en&layout=compact" alt="KhalidElgamous" />
-</p><br/>
+</p>
+<hr/>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidElgamous&" alt="KhalidElgamous" />
