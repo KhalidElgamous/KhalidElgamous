@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KhalidElgamous&label=Profile%20views&color=0e75b6&style=flat" alt="KhalidElgamous" /> </p>
+
+
 <!--
 **KhalidElgamous/KhalidElgamous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
