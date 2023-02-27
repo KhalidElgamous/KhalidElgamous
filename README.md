@@ -4,6 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=KhalidElgamous&label=Profile%20views&color=0e75b6&style=flat" alt="KhalidElgamous" />
 </p>
 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalid-elgamous/) | [Twitter](twitter.com/@kha_22a) | [Email](mailto:khalidelgamous1@gmail.com)
+
+
+
 <hr/>
 
 
