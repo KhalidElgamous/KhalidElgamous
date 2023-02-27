@@ -19,7 +19,7 @@
 
 
 ### Github Stats
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=KhalidElgamous&count_private=true&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/KhalidElgamous)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=KhalidElgamous&count_private=true&show_icons=true&theme=nord&hide_border=true)](https://github.com/KhalidElgamous)
 
 
 <!--p>
@@ -28,7 +28,7 @@
 
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidElgamous&layout=compact&count_private=true&show_icons=true&theme=city_lights&hide_border=true)](https://github.com/KhalidElgamous)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidElgamous&layout=compact&count_private=true&show_icons=true&theme=nord&hide_border=true)](https://github.com/KhalidElgamous)
 
 <!--p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhalidElgamous&show_icons=true&locale=en&layout=compact" alt="KhalidElgamous" />
