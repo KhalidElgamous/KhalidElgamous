@@ -7,7 +7,7 @@
 <hr/>
 
 
-[![Details](https://github-readme-streak-stats.herokuapp.com/?user=KhalidElgamous&theme=city_lights&hide_border=true)](https://github.com/KhalidElgamous)
+[![Details](https://github-readme-streak-stats.herokuapp.com/?user=KhalidElgamous&theme=nord&hide_border=true)](https://github.com/KhalidElgamous)
 
 <!--p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidElgamous&" alt="KhalidElgamous" />
