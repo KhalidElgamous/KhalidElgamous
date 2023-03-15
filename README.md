@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=KhalidElgamous&label=Profile%20views&color=0e75b6&style=flat" alt="KhalidElgamous" />
 </p>
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalid-elgamous/) | [Twitter](twitter.com/@kha_22a) | [Email](mailto:khalidelgamous1@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khalid-elgamous/) | [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khalid_elgamous" height="30" width="40" />](https://twitter.com/khalid_elgamous) | [Email](mailto:khalidelgamous1@gmail.com)
 
 
 
