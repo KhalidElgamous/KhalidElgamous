@@ -1,4 +1,7 @@
-### Hi 👋, I'm Khalid EL GAMOUS
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Khalid
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KhalidElgamous&label=Profile%20views&color=0e75b6&style=flat" alt="KhalidElgamous" />
@@ -48,3 +51,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[twitter]: https://twitter.com/khalid_elgamous
+[linkedin]: https://linkedin.com/in/khalid-elgamous
