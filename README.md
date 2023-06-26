@@ -11,7 +11,7 @@
 <hr/>
 
 
-[![Summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhalidElgamous&theme=nord)](https://github.com/KhalidElgamous)
+[![Summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhalidElgamous&theme=transparent)](https://github.com/KhalidElgamous)
 
 [![Details](https://github-readme-streak-stats.herokuapp.com/?user=KhalidElgamous&theme=nord&hide_border=true)](https://github.com/KhalidElgamous)
 
